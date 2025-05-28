@@ -36,7 +36,7 @@ Transform your website with beautiful interactive maps that engage visitors and 
 
 = Design Themes Included =
 
-* **Villa Lemoni Style**: Classic blue and gray professional design
+* **V Style**: Classic blue and gray professional design
 * **Modern Minimal**: Clean white with subtle accents
 * **Ocean Breeze**: Blue and teal coastal theme
 * **Sunset Luxury**: Warm gold and orange palette

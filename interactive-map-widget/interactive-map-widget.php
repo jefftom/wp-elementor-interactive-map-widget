@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Interactive Map Elementor Widget
- * Plugin URI: https://yourwebsite.com
+ * Plugin URI: https://www.linkedin.com/in/austin-web-design/
  * Description: Custom Elementor widget that creates an interactive map with clickable location hotspots
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Jeff Tom
  * Text Domain: interactive-map-widget
  * Domain Path: /languages
  * Requires at least: 5.0
